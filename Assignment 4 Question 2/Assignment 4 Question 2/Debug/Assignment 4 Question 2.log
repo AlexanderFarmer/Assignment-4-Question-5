@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Assignment 4 Question 2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  sorting_algorithms.cpp
+c:\users\alex\source\repos\assignment 4 question 2\assignment 4 question 2\sorting_algorithms.cpp(9): warning C4101: 'temp': unreferenced local variable
+c:\users\alex\source\repos\assignment 4 question 2\assignment 4 question 2\sorting_algorithms.cpp(75): warning C4018: '<=': signed/unsigned mismatch
+c:\users\alex\source\repos\assignment 4 question 2\assignment 4 question 2\sorting_algorithms.cpp(77): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex\source\repos\assignment 4 question 2\assignment 4 question 2\sorting_algorithms.cpp(98): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex\source\repos\assignment 4 question 2\assignment 4 question 2\sorting_algorithms.cpp(269): warning C4018: '<': signed/unsigned mismatch
+c:\users\alex\source\repos\assignment 4 question 2\assignment 4 question 2\sorting_algorithms.cpp(276): warning C4018: '<': signed/unsigned mismatch
+  Assignment 4 Question 2.vcxproj -> C:\Users\Alex\source\repos\Assignment 4 Question 2\Debug\Assignment 4 Question 3.exe
